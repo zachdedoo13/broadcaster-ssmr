@@ -3,5 +3,8 @@ name = "broadcaster-ssmr"
 version = "0.1.0"
 edition = "2024"
 authors = ["Zachary"]
+description = "A Broadcaster (ssmr = single sender multi receiver) for multytheaded applications"
+repository = "https://github.com/zachdedoo13/broadcaster-ssmr.git"
+license = "MIT"
 
 [dependencies]
